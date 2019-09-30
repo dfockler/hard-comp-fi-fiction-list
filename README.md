@@ -99,6 +99,13 @@ Comp-fi hardness score: 4.
 Overall rating ****__
 
   This story has two main settings. One is a planet where dog-like creatures communicate telepathically. The other is in space where an ancient AI has escaped it's confines. Large in scale, but also very character driven. Computers play a large role throughout the plot. Great world-building.
+  
+* __Permutation City (Greg Egan).
+Medium Length.
+Comp-fi hardness score: 5.
+Overall rating ***__
+
+  Written by a software developer, Permutation City leans hard into the philosophy of what artificial life would be like in a not too distant future. Sometimes difficult to follow, but definitely thought provoking.
 
 ## Works recommended but lacking confirmation and/or review
 
